@@ -24,7 +24,7 @@ const Navbar = () => {
     <nav className='flex justify-between bg-slate-900 text-white py-2 font-poppins font-semibold'>
       <div className="logo flex items-center gap-0">
         <img 
-          src="src\assets\logo.jpg"
+          src="/logo.jpg"
           alt="KARYAM Logo" 
           className="ml-9 h-10 w-10 object-contain rounded-md
              shadow-inner shadow-slate-800 
